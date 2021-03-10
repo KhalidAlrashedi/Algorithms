@@ -1,3 +1,8 @@
+/**
+ * @author Khalid Alrashedi
+ * @Date/Time   Wed.3/10/2021  8:09 AM (UTC) 
+ * @Application: Characters Counter
+ */
 public class CharacterCounter {
 	
 	public static void main(String[] args) {
@@ -11,10 +16,10 @@ public class CharacterCounter {
 	
 	public static String RunLength(String str) {
 		
-		int counter = 1; // To count letters
+		int counter = 1; // To count characters
 		String res = ""; // To concatenate characters
 
-		// loop to navigate all characters in str.
+		// loop to navigate all characters in string.
 		for(int i = 0; i < str.length(); i++){
 			
 			if(i == str.length() - 1) // False, if i variable reaches last element of str.
