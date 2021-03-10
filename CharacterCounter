@@ -1,6 +1,6 @@
 /**
- * @author Khalid Alrashedi
- * @Date/Time   Wed.3/10/2021  8:09 AM (UTC) 
+ * @author: Khalid Alrashedi
+ * @Date/Time:   Wed.3/10/2021  8:09 AM (UTC) 
  * @Application: Characters Counter
  */
 public class CharacterCounter {
