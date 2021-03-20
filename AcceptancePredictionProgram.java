@@ -8,7 +8,7 @@
  */
 
 import java.util.Scanner;
-public class Predication {
+public class Acceptance Prediction Program {
 	
 	// Available Information
 	//	 >> number of applicants.   
